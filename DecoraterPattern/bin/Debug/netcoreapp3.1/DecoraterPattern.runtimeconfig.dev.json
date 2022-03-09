@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mohak.gogia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mohak.gogia\\.nuget\\packages"
+    ]
+  }
+}
